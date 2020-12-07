@@ -1,4 +1,4 @@
-ansible
+ansible==2.9.9
 boto
 boto3
 paramiko
